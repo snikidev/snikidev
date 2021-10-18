@@ -4,4 +4,4 @@ I'm a Software Developer in London 🇬🇧. I like to work with <img src="/icon
 
 You can find modules I publish on <a href="https://www.npmjs.com/~snikidev"><img src="/icons/npm/npm-original-wordmark.svg" width="20" /></a> and read my blog on [sniki.dev](https://sniki.dev).
 
-You can also find me on <a href="https://twitter.com/NKakuev"><img src="/icons/twitter/twitter-original.svg" width="20" /></a> and <a href="https://www.linkedin.com/in/nkakuev/"><img src="/icons/linkedin/linkedin-original.svg" width="20" /></a>
+You can also find me on <a href="https://twitter.com/snikidev"><img src="/icons/twitter/twitter-original.svg" width="20" /></a> and <a href="https://www.linkedin.com/in/nkakuev/"><img src="/icons/linkedin/linkedin-original.svg" width="20" /></a>
