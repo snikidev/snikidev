@@ -1,7 +1,5 @@
-##  Hi 👋, I'm Nikita!
+## Hi 👋, I'm Nikita!
 
-I'm a Software Developer in London 🇬🇧. I like to work with <img src="/icons/javascript/javascript-original.svg" width="20" /> / <img src="/icons/typescript/typescript-original.svg" width="20" />, <img src="/icons/python/python-original.svg" width="20" /> and <img src="/icons/go/go-original.svg" width="20" />. Most of the projects I do are in <img src="/icons/react/react-original.svg" width="20" /> and <img src="/icons/vuejs/vuejs-original.svg" width="20" />, and they are usually deployed to AWS, GCP, Netlify and/or Vercel.
+<img src="/assets/banner.png" width="100%" />
 
-You can find modules I publish on <a href="https://www.npmjs.com/~snikidev"><img src="/icons/npm/npm-original-wordmark.svg" width="20" /></a> and read my blog on [sniki.dev](https://sniki.dev).
-
-You can also find me on <a href="https://twitter.com/snikidev"><img src="/icons/twitter/twitter-original.svg" width="20" /></a> and <a href="https://www.linkedin.com/in/nkakuev/"><img src="/icons/linkedin/linkedin-original.svg" width="20" /></a>
+I work with React and all things JavaScript/TypeScript in general on the front and Node, python, go, MongoDB, PostgreSQL on the back. I also work with AWS/GCP/Azure on a daily basis.
